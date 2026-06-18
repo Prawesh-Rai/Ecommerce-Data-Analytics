@@ -33,9 +33,9 @@ E-Commerce Sales Dataset
 
 ## Files
 
-- Dataset for Data Analytics - Sheet1 - Copy.csv
-- Cleaned_Ecommerce_Dataset.csv
-- project1.ipynb
+- ecommerce_sales_dataset.csv
+- cleaned_ecommerce_sales_dataset.csv
+- EDA_and_Feature_Engineering.ipynb
 
 ## Author
 
